@@ -13,3 +13,8 @@
 	background-color: #006100;
 	color: rgba(255,255,255,.75);
 }
+
+.dropdown-item.active,
+.dropdown-item:active {
+	background-color: #006100;
+}
