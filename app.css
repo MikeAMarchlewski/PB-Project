@@ -1,6 +1,15 @@
+body {
+	background: linear-gradient(to right, #008000, #00CD00);
+}
+
+.center {
+	text-align: center;
+}
+
 .nav-color {
 	background-color: #006100;
 }
+
 .dropdown-menu {
 	background-color: #006100;
 }
@@ -17,4 +26,9 @@
 .dropdown-item.active,
 .dropdown-item:active {
 	background-color: #006100;
+}
+
+.jumbotron {
+	background-color: transparent;
+	color: white;
 }
