@@ -46,3 +46,8 @@ img	{
 	background-color: transparent;
 	color: white;
 }
+
+.table .thead-dark th {
+	background-color: #006100;
+	border-color: #006100;
+}
